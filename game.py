@@ -1,5 +1,3 @@
-import json
-import os
 from random import randint
 import sqlite3
 
